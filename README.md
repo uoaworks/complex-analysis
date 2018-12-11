@@ -1,3 +1,3 @@
 # ComplexAnalysisAY2018
 
-20181211 Notice: The Lecture3.pdf is updated with typos fixed.
+20181211 Notice: The Lecture3.pdf is updated at Time 12:37 with typos fixed.
