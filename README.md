@@ -1,5 +1,7 @@
 # ComplexAnalysisAY2018
 
+20181224 Notice: The figure 1(d) in Assignment6.pdf is recreated. Please use this version for Q1(d).
+
 20181221 Notice: The mistakes of incorrect usage for "dt", "dx" and "dy" in the Page 28, 35 and 36 of "Lecture6.pdf" are fixed.
 
 20181221 Notice: The Slides "Lecture6.pdf" with solutions to the examples are uploaded.
